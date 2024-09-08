@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace zad2
 {
-    using System;
-
-    namespace zad2
-    {
+    
         class Program
         {
             public static void Main(string[] args)
@@ -24,5 +21,5 @@ namespace zad2
                 cat.CatActions();
             }
         }
-    }
+    
 }
